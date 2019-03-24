@@ -1,0 +1,15 @@
+w/f	b	lambda	k		result
+0.5	y	y(<0)	-3.796e-5	trap
+0.5	0	y(>0)	4.9448e-6	slow oscillations?
+0.5	y	0	-2.4917e-5	trap
+0.5	0	0	-2.615e-7	weak trapping
+
+2	y	y(<0)	-0.00020214	trap
+2	0	y(>0)	-0.0010553	sawtooth oscillations?
+2	y	0	-0.00018562	trap
+2	0	0			dnc
+
+4	y	y(<0)	-0.00060882	trap
+4	0	y(>0)	-0.00081488	trap
+4	y	0			dnc
+4	0	0			dnc
